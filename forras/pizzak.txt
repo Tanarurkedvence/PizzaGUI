@@ -1,0 +1,21 @@
+Id	Nev	Feltetek	Ar	Vega	Csipos
+1	Margherita	paradicsomszósz, mozzarella, bazsalikom	2490	Igen	Nem
+2	Sonkás	paradicsomszósz, sonka, mozzarella	2890	Nem	Nem
+3	Gombás	paradicsomszósz, gomba, mozzarella	2790	Igen	Nem
+4	Szalámis	paradicsomszósz, szalámi, mozzarella	2990	Nem	Nem
+5	Négysajtos	tejföl, mozzarella, gorgonzola, parmezán, füstölt sajt	3490	Igen	Nem
+6	Hawaii	paradicsomszósz, sonka, ananász, mozzarella	3190	Nem	Nem
+7	Diavola	paradicsomszósz, csípős szalámi, chili, mozzarella	3390	Nem	Igen
+8	Zöldséges	paradicsomszósz, paprika, cukkini, padlizsán, mozzarella	3090	Igen	Nem
+9	Magyaros	paradicsomszósz, kolbász, bacon, lilahagyma, erős paprika	3590	Nem	Igen
+10	Tonhalas	paradicsomszósz, tonhal, lilahagyma, olajbogyó	3390	Nem	Nem
+11	Bolognai	paradicsomszósz, darált hús, mozzarella	3290	Nem	Nem
+12	Pikáns zöldséges	paradicsomszósz, jalapeño, kukorica, paprika, mozzarella	3190	Igen	Igen
+13	Songoku	paradicsomszósz, sonka, gomba, kukorica	3090	Nem	Nem
+14	Csirkés-BBQ	BBQ szósz, csirkemell, lilahagyma, mozzarella	3690	Nem	Nem
+15	Spenótos	tejföl, spenót, fokhagyma, feta	3190	Igen	Nem
+16	Mexikói	paradicsomszósz, darált hús, bab, chili, kukorica	3590	Nem	Igen
+17	Rukkolás	paradicsomszósz, prosciutto, rukkola, parmezán	3890	Nem	Nem
+18	Tejfölös-kukoricás	tejföl, kukorica, mozzarella	2690	Igen	Nem
+19	Gyros pizza	tzatziki, gyros hús, paradicsom, lilahagyma	3690	Nem	Nem
+20	Tűzpiros	paradicsomszósz, chili, padlizsán, paprika, mozzarella	3290	Igen	Igen
